@@ -18,6 +18,7 @@ public class implements2 implements implements1 {
     public void dance() {
         // TODO Auto-generated method stub
         System.out.println("neetyhone dance tonight");
+        System.out.println("enjoy the pandaga");
     }
     
     public static void main(String args[])
