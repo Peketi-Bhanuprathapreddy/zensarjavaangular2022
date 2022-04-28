@@ -3,5 +3,5 @@ public interface implements1
     public void run();
     public void dance();
 
-    
+       
 }

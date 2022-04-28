@@ -1,4 +1,10 @@
 public class sample {
+    public sample() {
+    }
+
+    public sample() {
+    }
+
     // Main method
     public static void main(String[] args) {
         double a = 50.9;
