@@ -11,15 +11,15 @@ public class que {
       q.offer(503);
       q.offer(510);
       q.offer(520);
-      q.poll();
+     // q.poll();
      System.out.println( "hi ra"+q.size());
-    
+    q.add(33);
       q.add(12);
     // q.clear();
     // q.remove();
     // System.out.println( "head is"+q.element());
      System.out.println( "head is"+q.peek());
-      q.forEach(System.out::println);
+    System.out.println(q);
     }
     
 }
