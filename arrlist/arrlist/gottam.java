@@ -1,7 +1,7 @@
 package arrlist;
 import java.util.ArrayList;
 import java.util.List;
-public class gottam  
+public class addelements 
 {
 
 public static List<Integer> convertIntoList(){ 
